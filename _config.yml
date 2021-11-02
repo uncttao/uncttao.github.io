@@ -37,7 +37,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.markdown
   - research.markdown
   - teaching.markdown
 
