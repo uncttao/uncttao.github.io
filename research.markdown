@@ -11,7 +11,7 @@ permalink: /research/
 
 Automatic Parallelization via Software Stream Rewriting
 
-[Abstract](https://www.researchgate.net/publication/354612077_Automatic_Parallelization_via_Software_Stream_Rewriting)
+[Draft](https://1drv.ms/b/s!AmFeTX7ZoZtXpAG08TUblJ5JVoJh?e=eSJsgb)
 
 ---
 
