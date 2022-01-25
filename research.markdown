@@ -9,9 +9,9 @@ permalink: /research/
 ---
 <br/>
 
-Automatic Parallelization via Software Stream Rewriting
+Automatic Parallelization via Software Stream Rewriting (submitted to HIPS2022)
 
-[Draft](https://1drv.ms/b/s!AmFeTX7ZoZtXpAG08TUblJ5JVoJh?e=eSJsgb)
+[Draft](https://1drv.ms/b/s!AmFeTX7ZoZtXpE0JgWvHY9phemXt?e=ydQPiN)
 
 ---
 
