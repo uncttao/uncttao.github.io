@@ -6,19 +6,19 @@ permalink: /research/
 
 ### _Current work_
 
----
-<br/>
-
-Automatic Parallelization via Software Stream Rewriting (submitted to HIPS2022)
-
-[Draft](https://1drv.ms/b/s!AmFeTX7ZoZtXpE0JgWvHY9phemXt?e=ydQPiN)
-
----
-
 <br/>
 <br/>
 
 ### _Past works_
+
+---
+<br/>
+
+Automatic Parallelization via Software Stream Rewriting (Accepted by HIPS2022)
+
+[Preprint](https://1drv.ms/b/s!AmFeTX7ZoZtXpVIJbW7f23JPY9HV?e=SINmm5)
+
+---
 
 ---
 
