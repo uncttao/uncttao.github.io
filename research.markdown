@@ -6,6 +6,12 @@ permalink: /research/
 
 ### _Current work_
 
+---
+
+[Thesis Proposal](https://1drv.ms/u/s!AmFeTX7ZoZtXpV2hjkbA8L3-_nW0?e=ivIWpM)
+
+---
+
 <br/>
 <br/>
 
