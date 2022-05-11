@@ -6,17 +6,17 @@ permalink: /research/
 
 ### _Current work_
 
+<br/>
+<br/>
+
+### _Past works_
+
 ---
 <br/>
 
 [Thesis Proposal](https://1drv.ms/u/s!AmFeTX7ZoZtXpV2hjkbA8L3-_nW0?e=ivIWpM)
 
 ---
-
-<br/>
-<br/>
-
-### _Past works_
 
 ---
 <br/>
